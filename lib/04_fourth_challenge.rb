@@ -14,8 +14,8 @@ def fourth_challenge
       :matriarch => {name: "Lady Capulet", age: "51"},
       :heroine => {name: "Juliet", age: "15", status: "alive"},
       :heroine_friends => [
-        friend1_hash => {name: "Benvolio", age: "17", attitude: "worried"}
-        friend2_hash => {name: :"Mercutio", age: "18", attitude: "hot-headed"}
+        friend1_hash => {name: "Steven", age: "30", attitude: "confused"}
+        friend2_hash => {name: :"Nurse", age: "44", attitude: "worried"}
       ]
    }
 }
